@@ -1,15 +1,6 @@
-# clipboard-copy [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url]  [![size][size-image]][size-url] [![javascript style guide][standard-image]][standard-url]
+# clipboard-copy
 
-[travis-image]: https://img.shields.io/travis/feross/clipboard-copy/master.svg
-[travis-url]: https://travis-ci.org/feross/clipboard-copy
-[npm-image]: https://img.shields.io/npm/v/clipboard-copy.svg
-[npm-url]: https://npmjs.org/package/clipboard-copy
-[downloads-image]: https://img.shields.io/npm/dm/clipboard-copy.svg
-[downloads-url]: https://npmjs.org/package/clipboard-copy
-[size-image]: https://img.shields.io/bundlephobia/minzip/clipboard-copy
-[size-url]: https://bundlephobia.com/result?p=clipboard-copy
-[standard-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
-[standard-url]: https://standardjs.com
+_This repo is a fork of `clipboard-copy` that supports ES Modules._
 
 ### Lightweight copy to clipboard for the web
 
